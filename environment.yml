@@ -3,10 +3,6 @@ channels:
   - defaults
 dependencies:
   = python=3.8
-  - pip:
-    - cycler==0.10.0
-    - kiwisolver==1.2.0
-    - matplotlib==3.3.2
-    - numpy==1.19.2
-    - pillow==7.2.0
+  - anaconda
+  - matplotlib==3.3.2
 prefix: C:\Programs\Anaconda3\envs\test_clean
