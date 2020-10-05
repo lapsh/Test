@@ -4,5 +4,5 @@ channels:
 dependencies:
   = python=3.8
   - anaconda
-  - matplotlib==3.3.2
+  - matplotlib=3.3.2
 prefix: C:\Programs\Anaconda3\envs\test_clean
