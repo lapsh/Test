@@ -2,7 +2,6 @@ name: test_clean
 channels:
   - defaults
 dependencies:
-  = python=3.8
-  - anaconda
-  - matplotlib
+  - jupyterlab
+  - python=3.8
 prefix: C:\Programs\Anaconda3\envs\test_clean
